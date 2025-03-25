@@ -6,8 +6,9 @@ Em nossa primeira atividade realizamos nossa apresentação em power poeint com 
 
 Depois realizamos uma planilha no exceL:
 
-![download](https://github.com/user-attachments/assets/e6a3265f-4462-4657-9b91-d591f82b0d52)
-![image](https://github.com/user-attachments/assets/4ada7c57-8e8c-4c08-8ece-b9ead15d97ec)
+![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)
+
+
 ![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 
