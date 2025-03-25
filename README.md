@@ -12,13 +12,11 @@ Depois realizamos uma planilha no exceL:
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 
 E reaalizamos no POWER BI:
+as respostas foram alocadas no DASHBOARD
 
-Quantos alunos existem de cada país, considerando todas as escolas? 
-Quantas nacionalidades de alunos existem em cada escola?
-Quantas nacionalidades de alunos existem em cada município?
-Qual nacionalidade está com maior número de alunos presentes no estado de São Paulo?
+  
+![image](https://github.com/user-attachments/assets/e6472a2c-6487-45db-bd6a-a32c9f9de884)
+![image](https://github.com/user-attachments/assets/5474d918-8f05-4aaa-a82e-8874dac59d05)
+![image](https://github.com/user-attachments/assets/09850936-d951-4675-855f-974777af6dda)
 
-![image](https://github.com/user-attachments/assets/a54aa12b-15eb-4922-b111-34d6327d7ab0)
-![image](https://github.com/user-attachments/assets/351ed5ed-8e70-4708-b09c-33caed4134ae)
-![image](https://github.com/user-attachments/assets/9cb43f3a-cc06-4014-9c96-f8cda2d086f9)
 
