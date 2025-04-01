@@ -6,7 +6,7 @@
 _________________________________________
 
 # 	:green_circle: Depois realizamos uma planilha no _excel_
-## as respostas foram alocadas no _EXCEL_ em anexo
+***as respostas foram alocadas no _EXCEL_ em anexo***
 
 
 ![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)\
@@ -16,7 +16,7 @@ _________________________________________
 _________________________________________
 
 # 	:green_circle: E realizamos no _POWERBI_ ...
-<as respostas foram alocadas no _DASHBOARD_ (_POWERBI_ em anexo)>
+***as respostas foram alocadas no _DASHBOARD_ (_POWERBI_ em anexo)***
 
 ![image](https://github.com/user-attachments/assets/e6472a2c-6487-45db-bd6a-a32c9f9de884)
 ![image](https://github.com/user-attachments/assets/5474d918-8f05-4aaa-a82e-8874dac59d05)
