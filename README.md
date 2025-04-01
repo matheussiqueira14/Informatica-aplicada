@@ -17,3 +17,5 @@ as respostas foram alocadas no DASHBOARD (POWER BI em anexo)
 ![image](https://github.com/user-attachments/assets/e6472a2c-6487-45db-bd6a-a32c9f9de884)
 ![image](https://github.com/user-attachments/assets/5474d918-8f05-4aaa-a82e-8874dac59d05)
 ![image](https://github.com/user-attachments/assets/09850936-d951-4675-855f-974777af6dda)
+
+--------------------------------------------------------------------------------------------------------------------------------
