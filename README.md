@@ -14,6 +14,7 @@ _________________________________________
 ![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)\
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 _________________________________________
+</div>
 
 # 	:green_circle: E realizamos no _POWERBI_ ...
 ***as respostas foram alocadas no _DASHBOARD_ (_POWERBI_ em anexo)***
