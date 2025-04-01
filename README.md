@@ -1,10 +1,10 @@
-# Em nossa primeira atividade realizamos nossa apresentação em power poeint com um quiz:
+# 	:green_circle: Em nossa primeira atividade realizamos nossa apresentação em power poeint com um quiz:
 
 ![image](https://github.com/user-attachments/assets/7142cc3e-1efd-4c7c-b6d4-5153dd6539af)
 ![image](https://github.com/user-attachments/assets/30d6141a-7891-4b3e-a8b4-814a777f0548)
 ![image](https://github.com/user-attachments/assets/02730648-d3c9-442d-bb96-674ddfb4bc8e)
 
-# Depois realizamos uma planilha no excel:
+# 	:green_circle: Depois realizamos uma planilha no excel:
 
 ![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)
 ![image](https://github.com/user-attachments/assets/e2a73bd9-c303-4796-9ba3-ec9cadb03b7e)
