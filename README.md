@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 
-# E realizamos no POWER BI: 
+# 	:green_circle: E realizamos no POWER BI: 
 ### as respostas foram alocadas no DASHBOARD (POWER BI em anexo) 
   
 ![image](https://github.com/user-attachments/assets/e6472a2c-6487-45db-bd6a-a32c9f9de884)
