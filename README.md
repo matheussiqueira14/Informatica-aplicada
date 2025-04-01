@@ -1,4 +1,4 @@
-# 	:green_circle: Em nossa primeira atividade realizamos nossa apresentação em power poeint com um quiz:
+# 	:green_circle: Em nossa primeira atividade realizamos nossa apresentação em _powerpoeint_ com um quiz:
 
 ![image](https://github.com/user-attachments/assets/7142cc3e-1efd-4c7c-b6d4-5153dd6539af)
 ![image](https://github.com/user-attachments/assets/30d6141a-7891-4b3e-a8b4-814a777f0548)
@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 
-# 	:green_circle: E realizamos no POWER BI: 
+# 	:green_circle: E realizamos no _POWER BI_: 
 ### as respostas foram alocadas no DASHBOARD (POWER BI em anexo) 
   
 ![image](https://github.com/user-attachments/assets/e6472a2c-6487-45db-bd6a-a32c9f9de884)
