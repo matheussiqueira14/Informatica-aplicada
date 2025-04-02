@@ -26,7 +26,3 @@ E realizamos no _POWERBI_ ...
 ![image](https://github.com/user-attachments/assets/363f4c19-1e56-431b-a988-603ab9b8f905)
 
 
-
-carro `carro rgb(19, 105, 300)`	 carro 
-
-
