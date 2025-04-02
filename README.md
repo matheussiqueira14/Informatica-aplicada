@@ -1,12 +1,13 @@
 # 	:green_circle: ATIVIDADE I 
-Em nossa primeira atividade realizamos nossa apresentação em _powerpoint_ com um quiz:
+## Em nossa primeira atividade realizamos nossa apresentação em _powerpoint_ com um quiz:
 
 ![image](https://github.com/user-attachments/assets/7142cc3e-1efd-4c7c-b6d4-5153dd6539af)
 ![image](https://github.com/user-attachments/assets/30d6141a-7891-4b3e-a8b4-814a777f0548)
 ![image](https://github.com/user-attachments/assets/02730648-d3c9-442d-bb96-674ddfb4bc8e)
 _________________________________________
 
-# 	:green_circle: Depois realizamos uma planilha no _excel_
+# 	:green_circle: ATIVIDADE II 
+## Depois realizamos uma planilha no _excel_
 ***as respostas foram alocadas no _EXCEL_ em anexo***
 
 
@@ -16,7 +17,8 @@ _________________________________________
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 _________________________________________
 
-# 	:green_circle: E realizamos no _POWERBI_ ...
+# 	:green_circle: ATIVIDADE III
+## E realizamos no _POWERBI_ ...
 ***as respostas foram alocadas no _DASHBOARD_ (_POWERBI_ em anexo)***
 
 ![image](https://github.com/user-attachments/assets/e6472a2c-6487-45db-bd6a-a32c9f9de884)
