@@ -19,6 +19,7 @@ _________________________________________
 
 # 	:green_circle: ATIVIDADE III
 E realizamos no _POWERBI_ ...
+ </head>
 ***as respostas foram alocadas no _DASHBOARD_ (_POWERBI_ em anexo)***
 
 ![image](https://github.com/user-attachments/assets/e6472a2c-6487-45db-bd6a-a32c9f9de884)
