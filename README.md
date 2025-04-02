@@ -27,6 +27,6 @@ E realizamos no _POWERBI_ ...
 
 
 
-`carro rgb(9, 105, 218)`	 carro 
+carro `carro rgb(19, 105, 300)`	 carro 
 
 
