@@ -18,10 +18,11 @@ Depois realizamos uma planilha no _excel_
 ***as respostas foram alocadas no _EXCEL_ em anexo***
 
 
-![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)\
-![image](https://github.com/user-attachments/assets/e2a73bd9-c303-4796-9ba3-ec9cadb03b7e)\
-:![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)\
+![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)
+![image](https://github.com/user-attachments/assets/e2a73bd9-c303-4796-9ba3-ec9cadb03b7e)
+![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
+
 
 
 ## 	 ATIVIDADE IV 
@@ -33,9 +34,17 @@ E realizamos no _POWERBI_ ...
 ![image](https://github.com/user-attachments/assets/363f4c19-1e56-431b-a988-603ab9b8f905)
 
 ## ATIVIDADE V 
-em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos, editamos a planilha em excel e powerbi e formulamos três perguntas com respostas no arquivo 
+em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 , editamos a planilha em excel e _powerbi_ e formulamos três perguntas com respostas no arquivo 
 
-##link
+![image](https://github.com/user-attachments/assets/84fe0e07-52db-401c-82f3-c972262d4b5a)
+![image](https://github.com/user-attachments/assets/dd00a061-9ba5-442d-969e-34c43774d092)\
+![image](https://github.com/user-attachments/assets/1888d15e-69de-4c30-af73-f0b34e7f102b)\
+![image](https://github.com/user-attachments/assets/956853d1-1702-4ce7-bb5e-49fb8f386b77)
+
+### QUESTÕES E RESPOSTAS 
+![image](https://github.com/user-attachments/assets/548f614a-b22b-41e1-af57-873131c51238)
+
+## link
 
 + [ATIVIDADE I]()
 + [ATIVIDADE II]() 
