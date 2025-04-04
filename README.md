@@ -20,7 +20,7 @@ Depois realizamos uma planilha no _excel_
 
 ![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)\
 ![image](https://github.com/user-attachments/assets/e2a73bd9-c303-4796-9ba3-ec9cadb03b7e)\
-![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)\
+:![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)\
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 
 
@@ -35,7 +35,7 @@ E realizamos no _POWERBI_ ...
 ## ATIVIDADE V 
 em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos, editamos a planilha em excel e powerbi e formulamos três perguntas com respostas no arquivo 
 
-## link
+##link
 
 + [ATIVIDADE I]()
 + [ATIVIDADE II]() 
