@@ -9,20 +9,18 @@ Em nossa primeira atividade realizamos nossa apresentação em _powerpoint_ com 
 ![image](https://github.com/user-attachments/assets/02730648-d3c9-442d-bb96-674ddfb4bc8e)
 
 ##   ATIVIDADE II
-Em nossa segunda atividade realizamos uma planilha de contas pessoais em excel com formulas
+nossa segunda atividade com auxilio da professora, realizamos uma planilha de contas pessoais em excel usando as formulas SOMASE e CONT.SE 
 
-
+![image](https://github.com/user-attachments/assets/8bdf9f8c-8016-4ff0-845e-57ced0a738b6)
 
 ## 	 ATIVIDADE III 
 Depois realizamos uma planilha no _excel_
 ***as respostas foram alocadas no _EXCEL_ em anexo***
 
-
 ![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)
 ![image](https://github.com/user-attachments/assets/e2a73bd9-c303-4796-9ba3-ec9cadb03b7e)
 ![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
-
 
 
 ## 	 ATIVIDADE IV 
