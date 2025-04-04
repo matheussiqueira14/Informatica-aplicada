@@ -1,4 +1,4 @@
-<H1>TODAS ATIVIDADES DE INFORMATICA APLICADA</H1>
+<H1><p align="center">TODAS ATIVIDADES DE INFORMATICA APLICADA</H1>
 
 
 ##	 ATIVIDADE I 
@@ -9,7 +9,7 @@ Em nossa primeira atividade realizamos nossa apresentação em grupono _powerpoi
 ![image](https://github.com/user-attachments/assets/02730648-d3c9-442d-bb96-674ddfb4bc8e)
 
 ##   ATIVIDADE II
-nossa segunda atividade com auxilio da professora, realizamos uma planilha de contas pessoais em excel usando as formulas SOMASE e CONT.SE 
+Nossa segunda atividade com auxilio da professora, realizamos uma planilha de contas pessoais em excel usando as formulas SOMASE e CONT.SE 
 
 ![image](https://github.com/user-attachments/assets/8bdf9f8c-8016-4ff0-845e-57ced0a738b6)
 
@@ -22,7 +22,6 @@ Depois realizamos uma planilha no _excel_
 ![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 
-
 ## 	 ATIVIDADE IV 
 E realizamos no _POWERBI_ ...
 ***as respostas foram alocadas no _DASHBOARD_ (POWERBI em anexo)***
@@ -32,16 +31,16 @@ E realizamos no _POWERBI_ ...
 ![image](https://github.com/user-attachments/assets/363f4c19-1e56-431b-a988-603ab9b8f905)
 
 ## ATIVIDADE V 
-em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 , editamos a planilha em excel e _powerbi_ e formulamos três perguntas com respostas no arquivo 
+Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 , editamos a planilha em excel e _powerbi_ e formulamos três perguntas com respostas no arquivo 
 
-### no _powerBI_
+### <p align="center">no _powerBI_
 
 ![image](https://github.com/user-attachments/assets/84fe0e07-52db-401c-82f3-c972262d4b5a)
 ![image](https://github.com/user-attachments/assets/dd00a061-9ba5-442d-969e-34c43774d092)\
 ![image](https://github.com/user-attachments/assets/1888d15e-69de-4c30-af73-f0b34e7f102b)\
 ![image](https://github.com/user-attachments/assets/956853d1-1702-4ce7-bb5e-49fb8f386b77)
 
-### no excel 
+### <p align="center">no excel 
 
 ![image](https://github.com/user-attachments/assets/080a8002-2b98-498d-b667-300e18bcc5f4)
 
