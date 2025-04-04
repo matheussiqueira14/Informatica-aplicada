@@ -36,14 +36,14 @@ E realizamos no _POWERBI_ ...
 ## ATIVIDADE V 
 em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 , editamos a planilha em excel e _powerbi_ e formulamos três perguntas com respostas no arquivo 
 
-### em _powerBI_
+### no _powerBI_
 
 ![image](https://github.com/user-attachments/assets/84fe0e07-52db-401c-82f3-c972262d4b5a)
 ![image](https://github.com/user-attachments/assets/dd00a061-9ba5-442d-969e-34c43774d092)\
 ![image](https://github.com/user-attachments/assets/1888d15e-69de-4c30-af73-f0b34e7f102b)\
 ![image](https://github.com/user-attachments/assets/956853d1-1702-4ce7-bb5e-49fb8f386b77)
 
-### em excel
+### no excel 
 
 ![image](https://github.com/user-attachments/assets/080a8002-2b98-498d-b667-300e18bcc5f4)
 
