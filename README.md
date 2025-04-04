@@ -1,19 +1,19 @@
 <H1>TODAS ATIVIDADES DE INFORMATICA APLICADA ATÉ O MOMENTO</H1>
 
 
-# 	 ATIVIDADE I 
+##	 ATIVIDADE I 
 Em nossa primeira atividade realizamos nossa apresentação em _powerpoint_ com um quiz:
 
 ![image](https://github.com/user-attachments/assets/7142cc3e-1efd-4c7c-b6d4-5153dd6539af)
 ![image](https://github.com/user-attachments/assets/30d6141a-7891-4b3e-a8b4-814a777f0548)
 ![image](https://github.com/user-attachments/assets/02730648-d3c9-442d-bb96-674ddfb4bc8e)
 
-#   ATIVIDADE II
+##   ATIVIDADE II
+Em nossa segunda atividade realizamos uma planilha de contas pessoais em excel com formulas
 
 
 
-
-# 	 ATIVIDADE III 
+## 	 ATIVIDADE III 
 Depois realizamos uma planilha no _excel_
 ***as respostas foram alocadas no _EXCEL_ em anexo***
 
@@ -24,7 +24,7 @@ Depois realizamos uma planilha no _excel_
 ![image](https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379)
 
 
-# 	 ATIVIDADE IV 
+## 	 ATIVIDADE IV 
 E realizamos no _POWERBI_ ...
 ***as respostas foram alocadas no _DASHBOARD_ (POWERBI em anexo)***
 
@@ -32,4 +32,13 @@ E realizamos no _POWERBI_ ...
 ![image](https://github.com/user-attachments/assets/5474d918-8f05-4aaa-a82e-8874dac59d05)
 ![image](https://github.com/user-attachments/assets/363f4c19-1e56-431b-a988-603ab9b8f905)
 
-# ATIVIDADE V 
+## ATIVIDADE V 
+em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos, editamos a planilha em excel e powerbi e formulamos três perguntas com respostas no arquivo 
+
+## link
+
++ [ATIVIDADE I]()
++ [ATIVIDADE II]() 
++ [ATIVIDADE III]() 
++ [ATIVIDADE IV]()
++ [ATIVIDADE V]()
