@@ -48,3 +48,5 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 ### QUESTÕES E RESPOSTAS 
 ![image](https://github.com/user-attachments/assets/548f614a-b22b-41e1-af57-873131c51238)
 
+
+
