@@ -35,23 +35,16 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 
 ### <p align="center">no _powerBI_
 
+
+
+### <p align="center">no excel 
+
 ![image](https://github.com/user-attachments/assets/84fe0e07-52db-401c-82f3-c972262d4b5a)
 ![image](https://github.com/user-attachments/assets/dd00a061-9ba5-442d-969e-34c43774d092)\
 ![image](https://github.com/user-attachments/assets/1888d15e-69de-4c30-af73-f0b34e7f102b)\
 ![image](https://github.com/user-attachments/assets/956853d1-1702-4ce7-bb5e-49fb8f386b77)
 
-### <p align="center">no excel 
-
-![image](https://github.com/user-attachments/assets/080a8002-2b98-498d-b667-300e18bcc5f4)
-
 
 ### QUESTÕES E RESPOSTAS 
 ![image](https://github.com/user-attachments/assets/548f614a-b22b-41e1-af57-873131c51238)
 
-## link
-
-+ [ATIVIDADE I]()
-+ [ATIVIDADE II]() 
-+ [ATIVIDADE III]() 
-+ [ATIVIDADE IV]()
-+ [ATIVIDADE V]()
