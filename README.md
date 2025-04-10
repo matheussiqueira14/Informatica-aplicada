@@ -1,8 +1,8 @@
-<H1><p align="center">TODAS ATIVIDADES DE INFORMÁTICA APLICADA</H1>
+<H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1>
 
 
 ##	 ATIVIDADE I 
-Em nossa primeira atividade realizamos nossa apresentação em grupono _powerpoint_ com um quiz:
+Em nossa primeira atividade realizamos nossa apresentação em grupo no _powerpoint_ com um quiz:
 
 ![image](https://github.com/user-attachments/assets/7142cc3e-1efd-4c7c-b6d4-5153dd6539af)
 ![image](https://github.com/user-attachments/assets/30d6141a-7891-4b3e-a8b4-814a777f0548)
@@ -38,11 +38,14 @@ E realizamos no _POWERBI_ ...
 ## ATIVIDADE V 
 Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 , editamos a planilha em excel e _powerbi_ e formulamos três perguntas com respostas no arquivo 
 
-### <p align="center">no _powerBI_
+### <p align="center"> :heavy_check_mark: no _powerBI_
+
+![image](https://github.com/user-attachments/assets/042f77a6-0f72-493c-8419-2b73ee72fe9f)
+
+![image](https://github.com/user-attachments/assets/7a8c670c-b9f2-41b8-b3e2-e32a074d1d38)
 
 
-
-### <p align="center">no excel 
+### <p align="center"> :heavy_check_mark: no excel 
 
 ![image](https://github.com/user-attachments/assets/84fe0e07-52db-401c-82f3-c972262d4b5a)
 
@@ -59,7 +62,11 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
   <img src="https://github.com/user-attachments/assets/1888d15e-69de-4c30-af73-f0b34e7f102b" alt="Imagem exemplo">
 </p>
 
-### QUESTÕES E RESPOSTAS 
+-------------------------------------------------------------------------------
+
+###  <p align="center">:pencil2: QUESTÕES E RESPOSTAS 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/548f614a-b22b-41e1-af57-873131c51238" alt="Imagem exemplo">
 </p>
+
+-------------------------------------------------------------------------------
