@@ -1,19 +1,19 @@
 <H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1>
 
 
-##	 ATIVIDADE I 
+##	:pushpin:	 ATIVIDADE I 
 Em nossa primeira atividade realizamos nossa apresentação em grupo no _powerpoint_ com um quiz:
 
 ![image](https://github.com/user-attachments/assets/7142cc3e-1efd-4c7c-b6d4-5153dd6539af)
 ![image](https://github.com/user-attachments/assets/30d6141a-7891-4b3e-a8b4-814a777f0548)
 ![image](https://github.com/user-attachments/assets/02730648-d3c9-442d-bb96-674ddfb4bc8e)
 
-##   ATIVIDADE II
+##  :pushpin:	 ATIVIDADE II
 Nossa segunda atividade com auxilio da professora, realizamos uma planilha de contas pessoais em excel usando as formulas SOMASE e CONT.SE 
 
 ![image](https://github.com/user-attachments/assets/8bdf9f8c-8016-4ff0-845e-57ced0a738b6)
 
-## 	 ATIVIDADE III 
+## :pushpin:		 ATIVIDADE III 
 Depois realizamos uma planilha no _excel_
 ***as respostas foram alocadas no _EXCEL_ em anexo***
 
@@ -27,7 +27,7 @@ Depois realizamos uma planilha no _excel_
   <img src="https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379" alt="Imagem exemplo">
 </p>
 
-## 	 ATIVIDADE IV 
+## 	:pushpin:	 ATIVIDADE IV 
 E realizamos no _POWERBI_ ...
 ***as respostas foram alocadas no _DASHBOARD_ (POWERBI em anexo)***
 
@@ -36,7 +36,7 @@ E realizamos no _POWERBI_ ...
 ![image](https://github.com/user-attachments/assets/709c8cfc-019a-4185-9fbf-78e548345a27)
 
 
-## ATIVIDADE V 
+## :pushpin:	 ATIVIDADE V 
 Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 , editamos a planilha em excel e _powerbi_ e formulamos três perguntas com respostas no arquivo 
 
 ### <p align="center"> :heavy_check_mark: no _powerBI_
