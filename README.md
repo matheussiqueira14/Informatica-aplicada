@@ -1,4 +1,4 @@
-<H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1>
+<H1><p align="center"> :computer: ATIVIDADES DE INFORMÁTICA APLICADA</H1>
 
 
 ##	:pushpin:	 ATIVIDADE I 
