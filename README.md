@@ -1,4 +1,4 @@
-<H1><p align="center"> :computer: ATIVIDADES DE INFORMÁTICA APLICADA</H1>
+<H1><p align="center">  ATIVIDADES DE INFORMÁTICA APLICADA</H1>
 
 
 ##	:pushpin:	 ATIVIDADE I 
@@ -44,8 +44,6 @@ E realizamos no _POWERBI_ ...
 ## :pushpin:	 ATIVIDADE V 
 Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
 
-### formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
-
 ### <p align="center"> :heavy_check_mark: no _powerBI_
 
 ![image](https://github.com/user-attachments/assets/d4c78069-148b-4f89-8e7e-20ee5a428dde)
@@ -70,6 +68,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 
 -------------------------------------------------------------------------------
 
+### :brain: formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
 ###  <p align="center">:pencil2: QUESTÕES E RESPOSTAS 
 
 <p align="center">
