@@ -18,9 +18,14 @@ Depois realizamos uma planilha no _excel_
 ***as respostas foram alocadas no _EXCEL_ em anexo***
 
 ![image](https://github.com/user-attachments/assets/94498a83-a6a8-4318-93ab-688db392b516)
-![image](https://github.com/user-attachments/assets/e2a73bd9-c303-4796-9ba3-ec9cadb03b7e)
-![image](https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2a73bd9-c303-4796-9ba3-ec9cadb03b7e" alt="Imagem exemplo">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c998aa7f-34ac-4a4e-af47-b8f2c293f828" alt="Imagem exemplo">
+</p>
 
 
 <p align="center">
