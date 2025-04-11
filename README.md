@@ -42,7 +42,9 @@ E realizamos no _POWERBI_ ...
 
 
 ## :pushpin:	 ATIVIDADE V 
-Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ e formulamos três perguntas com respostas no arquivo 
+Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
+
+### formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
 
 ### <p align="center"> :heavy_check_mark: no _powerBI_
 
@@ -69,8 +71,13 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 -------------------------------------------------------------------------------
 
 ###  <p align="center">:pencil2: QUESTÕES E RESPOSTAS 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/548f614a-b22b-41e1-af57-873131c51238" alt="Imagem exemplo">
+  <img src="https://github.com/user-attachments/assets/00a11014-209b-448d-9989-039eb4d321d1" alt="Imagem exemplo">
 </p>
 
 -------------------------------------------------------------------------------
+
+
+
+
