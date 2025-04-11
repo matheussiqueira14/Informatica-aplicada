@@ -69,7 +69,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 -------------------------------------------------------------------------------
 
 ### :brain: formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
-###  <p align="center">:pencil2: QUESTÕES E RESPOSTAS 
+####  <p align="center">:pencil2: QUESTÕES E RESPOSTAS 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00a11014-209b-448d-9989-039eb4d321d1" alt="Imagem exemplo">
