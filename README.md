@@ -3,9 +3,9 @@
   <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
 </p>
 
-<H1><p align="center">  ATIVIDADES DE INFORMÁTICA APLICADA</H1>
+<H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1>
 
-## ÍNDICE 
+## 📌ÍNDICE 
 - [ATIVIDADE I](#atividade-i)
 - [ATIVIDADE II](#atividade-ii)
 - [ATIVIDADE III](#atividade-iii)
