@@ -59,7 +59,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 
 ### <p align="center"> :heavy_check_mark: no _powerBI_
 
-![image](https://github.com/user-attachments/assets/d4c78069-148b-4f89-8e7e-20ee5a428dde)
+![image](https://github.com/user-attachments/assets/17fe9b75-06a0-4a5b-9044-cbb4c9a78b60)
 
 
 ### <p align="center"> :heavy_check_mark: no excel 
