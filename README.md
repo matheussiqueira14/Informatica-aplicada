@@ -3,15 +3,16 @@
   <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
 </p>
 
-<H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1>
+<H1><p align="center"> :rocket: ATIVIDADES DE INFORMÁTICA APLICADA</H1>
 
-## 📌ÍNDICE 
+## ÍNDICE 
 - [ATIVIDADE I](#atividade-i)
 - [ATIVIDADE II](#atividade-ii)
 - [ATIVIDADE III](#atividade-iii)
 - [ATIVIDADE IV](#atividade-iv)
 - [ATIVIDADE V](#atividade-v)
 - [QUESTÕES E RESPOSTAS](#questões-e-respostas)
+- [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
 ## ATIVIDADE I 
 Em nossa primeira atividade realizamos nossa apresentação em grupo no _powerpoint_ com um quiz:
@@ -88,6 +89,12 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 </p>
 
 -------------------------------------------------------------------------------
+
+## LINKS dos arquivos 
+-
+-
+-
+-
 
 
 
