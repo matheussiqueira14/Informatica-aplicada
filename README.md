@@ -91,11 +91,12 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 -------------------------------------------------------------------------------
 
 ## LINKS dos arquivos 
-- [ATIVIDADE DE APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
--
--
--
-
+- [ATIVIDADE I - APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
+- [ATIVIDADE II - CONTAS PESSOAIS]()
+- [ATIVIDADE III - NACIONALIDADES DOS ALUNOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20aluno%20em%20EXCEL.xlsx)
+- [ATIVIDADE IV - NACIONALIDADES DOS ALUNO EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20alunos%20em%20PBI.pbix)
+- [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/SituacaoPortosPublicacao%20EXCEL%20.xlsx)
+- [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/situa%C3%A7%C3%A3o%20dos%20portos%20PBI%20(1).pbix)
 
 
 
