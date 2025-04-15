@@ -6,9 +6,9 @@
 <H1><p align="center">  ATIVIDADES DE INFORMÁTICA APLICADA</H1>
 
 ## INDICE 
-* [ATIVIDADE I](#ATIVIDADE I)
-*
-*
+- [ATIVIDADE I](atividade-i)
+- [ATIVIDADE II](ATIVIDADE-II)
+- [ATIVIDADE III](ATIVIDADE-III)
 
 ##	:pushpin:	 ATIVIDADE I 
 Em nossa primeira atividade realizamos nossa apresentação em grupo no _powerpoint_ com um quiz:
