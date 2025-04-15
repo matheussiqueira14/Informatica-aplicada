@@ -91,7 +91,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os 
 -------------------------------------------------------------------------------
 
 ## LINKS dos arquivos 
--
+- [ATIVIDADE DE APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
 -
 -
 -
