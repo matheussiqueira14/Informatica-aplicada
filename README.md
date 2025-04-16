@@ -55,7 +55,7 @@ E realizamos no _POWERBI_ ...
 
 
 ## ATIVIDADE V 
-Em nossa quinta atividade realizamos um busca por dados abertos, emcontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
+Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
 
 ### <p align="center"> :heavy_check_mark: no _powerBI_
 
