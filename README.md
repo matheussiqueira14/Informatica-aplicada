@@ -82,7 +82,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 
 -------------------------------------------------------------------------------
 
-### :brain: formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
 #### QUESTÕES E RESPOSTAS
 
 <p align="center">
