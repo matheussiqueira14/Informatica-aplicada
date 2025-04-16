@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
 </p>
 
-<H1><p align="center"> :rocket: ATIVIDADES DE INFORMÁTICA APLICADA</H1>
+<H1><p align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" />  ATIVIDADES DE INFORMÁTICA APLICADA</H1>  
 
 ## ÍNDICE 
 - [ATIVIDADE I](#atividade-i)
