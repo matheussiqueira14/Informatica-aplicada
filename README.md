@@ -80,7 +80,6 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
   <img src="https://github.com/user-attachments/assets/1888d15e-69de-4c30-af73-f0b34e7f102b" alt="Imagem exemplo">
 </p>
 
--------------------------------------------------------------------------------
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
 #### QUESTÕES E RESPOSTAS
@@ -89,15 +88,17 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
   <img src="https://github.com/user-attachments/assets/00a11014-209b-448d-9989-039eb4d321d1" alt="Imagem exemplo">
 </p>
 
--------------------------------------------------------------------------------
 
-## LINKS dos arquivos 
+## LINKS dos arquivos
 - [ATIVIDADE I - APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
 - [ATIVIDADE II - CONTAS PESSOAIS](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/contas.xlsx)
 - [ATIVIDADE III - NACIONALIDADES DOS ALUNOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20aluno%20em%20EXCEL.xlsx)
 - [ATIVIDADE IV - NACIONALIDADES DOS ALUNO EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20alunos%20em%20PBI.pbix)
 - [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/SituacaoPortosPublicacao%20EXCEL%20.xlsx)
 - [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/Situa%C3%A7%C3%A3o%20dos%20Portos%20%20PowerBI%20C%20.pbix)
+
+-------------------------------------------------------------------------------
+
 
 
 
