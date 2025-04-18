@@ -98,10 +98,9 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 - [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/Situa%C3%A7%C3%A3o%20dos%20Portos%20%20PowerBI%20C%20.pbix)
 
 -------------------------------------------------------------------------------
-## THE END
 
-![The End](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
+![Game Over](https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif)
 
 
 
