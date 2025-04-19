@@ -1,9 +1,7 @@
+![Game Over](https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
-</p>
+<H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1>  
 
-<H1><p align="center"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" />  ATIVIDADES DE INFORMÁTICA APLICADA</H1>  
 
 ## ÍNDICE 
 - [ATIVIDADE I](#atividade-i)
@@ -57,13 +55,13 @@ E realizamos no _POWERBI_ ...
 ## ATIVIDADE V 
 Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
 
-### <p align="center"> 📌 no _powerBI_
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" /> 📌 no _powerBI_
 
 ![image](https://github.com/user-attachments/assets/d2e45460-bf5a-4dde-b855-d663effe8247)
 
 
 
-### <p align="center"> 📌 no excel 
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; 📌 no excel 
 
 ![image](https://github.com/user-attachments/assets/84fe0e07-52db-401c-82f3-c972262d4b5a)
 
@@ -81,7 +79,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 </p>
 
 
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
+### formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
 #### QUESTÕES E RESPOSTAS
 
 <p align="center">
@@ -100,9 +98,9 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 -------------------------------------------------------------------------------
 
 
-![Game Over](https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b50cfb6f-79b2-490e-b4bb-d29228ccdbbe" alt="Imagem exemplo">
+</p>
 
 
 
