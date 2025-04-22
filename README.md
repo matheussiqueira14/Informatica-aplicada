@@ -1,7 +1,8 @@
-![Game Over](https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif)
+ 
 
-<H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1>  
-
+<p align="center">
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Imagem exemplo">
+<H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1> 
 
 ## ÍNDICE 
 - [ATIVIDADE I](#atividade-i)
