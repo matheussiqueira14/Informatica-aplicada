@@ -10,7 +10,6 @@
 - [ATIVIDADE III- NACIONALIDADES DOS ALUNOS](#atividade-iii)
 - [ATIVIDADE IV- ESCOLHA DOS DADOS ABERTOS](#atividade-iv)
 - [ATIVIDADE V- PROJETO- SORVETE, CERVEJA E PREÇO DE CASAS](#atividade-v)
-- [PERGUNTAS DA ATIVIDADE V](#perguntas-da-atividade-v)
 - [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
 # ATIVIDADE I 
@@ -108,6 +107,12 @@ Em nossa quarta atividade realizamos um busca por dados abertos, encontramos os 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/65fd83d1-67a9-46b1-aee1-399d81cec36a">
 
+:arrow_forward: QUESTÕES 
+:one: Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+2️⃣ Qual modelo você usaria? Por quê?
+3️⃣ Compare os resultados obtidos com aqueles apresentados em:
+https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.
+
  
 
 
@@ -124,12 +129,7 @@ Em nossa quarta atividade realizamos um busca por dados abertos, encontramos os 
 
 ![image](https://github.com/user-attachments/assets/52e4537d-a08c-4900-aa26-c228820933e2)
 
-# PERGUNTAS DA ATIVIDADE V
 
-1- Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
-2- Qual modelo você usaria? Por quê?
-3- Compare os resultados obtidos com aqueles apresentados em:
-https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.
 
 
 # LINKS dos arquivos
