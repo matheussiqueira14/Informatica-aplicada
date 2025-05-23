@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Imagem exemplo">
 <H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1> 
 
-## 🎯ÍNDICE 
+# 🎯ÍNDICE 
 - [ATIVIDADE I](#atividade-i)
 - [ATIVIDADE II](#atividade-ii)
 - [ATIVIDADE III](#atividade-iii)
@@ -14,19 +14,19 @@
 - [QUESTÕES E RESPOSTAS](#questões-e-respostas)
 - [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
-## ATIVIDADE I 
+# ATIVIDADE I 
 Em nossa primeira atividade realizamos nossa apresentação em grupo no _powerpoint_ com um quiz:
 
 ![image](https://github.com/user-attachments/assets/7142cc3e-1efd-4c7c-b6d4-5153dd6539af)
 ![image](https://github.com/user-attachments/assets/30d6141a-7891-4b3e-a8b4-814a777f0548)
 ![image](https://github.com/user-attachments/assets/02730648-d3c9-442d-bb96-674ddfb4bc8e)
 
-##  ATIVIDADE II
+#  ATIVIDADE II
 Nossa segunda atividade com auxilio da professora, realizamos uma planilha de contas pessoais em excel usando as formulas SOMASE e CONT.SE 
 
 ![image](https://github.com/user-attachments/assets/8bdf9f8c-8016-4ff0-845e-57ced0a738b6)
 
-## ATIVIDADE III 
+# ATIVIDADE III 
 Depois realizamos uma planilha no _excel_
 ***as respostas foram alocadas no _EXCEL_ em anexo***
 
@@ -45,7 +45,7 @@ Depois realizamos uma planilha no _excel_
   <img src="https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379" alt="Imagem exemplo">
 </p>
 
-## ATIVIDADE IV 
+# ATIVIDADE IV 
 E realizamos no _POWERBI_ ...
 ***as respostas foram alocadas no _DASHBOARD_ (POWERBI em anexo)***
 
@@ -54,16 +54,16 @@ E realizamos no _POWERBI_ ...
 ![image](https://github.com/user-attachments/assets/709c8cfc-019a-4185-9fbf-78e548345a27)
 
 
-## ATIVIDADE V 
+# ATIVIDADE V 
 Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
 
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" /> 📌 no _powerBI_
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" /> 📌 no _powerBI_
 
 ![image](https://github.com/user-attachments/assets/d2e45460-bf5a-4dde-b855-d663effe8247)
 
 
 
-### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; 📌 no excel 
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="75">&nbsp; 📌 no excel 
 
 ![image](https://github.com/user-attachments/assets/84fe0e07-52db-401c-82f3-c972262d4b5a)
 
@@ -81,7 +81,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 </p>
 
 
-### formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
+## formulamos três perguntas com respostas, no arquivo para desenvolver as questões ultilizamos as formulas CONT.SE E SOMASE 
 #### QUESTÕES E RESPOSTAS
 
 <p align="center">
@@ -92,7 +92,17 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 
 📌 Projeto 1: Venda de Sorvete 🍨
 
+![image](https://github.com/user-attachments/assets/f912c39f-4b18-4511-bfab-bf72a7051fd4)
+
+![image](https://github.com/user-attachments/assets/d6aa699b-fa40-4b81-a0bd-e99dbcbc1fa7)
+
+
 📌 Projeto 2: Consumo de cerveja 🍺
+
+![image](https://github.com/user-attachments/assets/65fd83d1-67a9-46b1-aee1-399d81cec36a)
+
+![image](https://github.com/user-attachments/assets/2e138954-4cd1-4771-b2f7-01a6ddd3ac4b)
+
 
 📌 Projeto 3: Venda de casas 🏠
 
@@ -107,7 +117,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 ![image](https://github.com/user-attachments/assets/52e4537d-a08c-4900-aa26-c228820933e2)
 
 
-## LINKS dos arquivos
+# LINKS dos arquivos
 - [ATIVIDADE I - APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
 - [ATIVIDADE II - CONTAS PESSOAIS](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/contas.xlsx)
 - [ATIVIDADE III - NACIONALIDADES DOS ALUNOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20aluno%20em%20EXCEL.xlsx)
