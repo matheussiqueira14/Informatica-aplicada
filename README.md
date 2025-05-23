@@ -110,11 +110,12 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/65fd83d1-67a9-46b1-aee1-399d81cec36a">
 
-  [link do colab](https://colab.research.google.com/drive/1opvKRzi17Nwfm4NgIjcADcCmvq-Yy8b2?usp=sharing)
+ 
 
 
 ## 📌 Projeto 3: Venda de casas 🏠
-
+📂 [link do colab](https://colab.research.google.com/drive/1opvKRzi17Nwfm4NgIjcADcCmvq-Yy8b2?usp=sharing)
+ 
 ![image](https://github.com/user-attachments/assets/512f0bb4-1c44-4bd0-ad05-c640132f87e1)
 
 <p align="center">
@@ -134,6 +135,8 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 - [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/SituacaoPortosPublicacao%20EXCEL%20.xlsx)
 - [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/Situa%C3%A7%C3%A3o%20dos%20Portos%20%20PowerBI%20C%20.pbix)
 - [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM POWERBI NAVEGADOR](https://app.powerbi.com/view?r=eyJrIjoiNWJhNGRlODQtMzhhNS00NjQ2LWFlMzUtMWQwM2YxYmQ2ODQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+- [ATIVIDADE VI - PROJETO 3 VENDA DE CASAS EM GOOGLE COLAB](https://colab.research.google.com/drive/1opvKRzi17Nwfm4NgIjcADcCmvq-Yy8b2?usp=sharing)
+- [ATIVIDADE VI - PROJETO 3 VENDA DE CASAS EM EXCEL]()
 -------------------------------------------------------------------------------
 
 
