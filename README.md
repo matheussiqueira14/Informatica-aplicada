@@ -10,7 +10,7 @@
 - [ATIVIDADE III- NACIONALIDADES DOS ALUNOS](#atividade-iii)
 - [ATIVIDADE IV- ESCOLHA DOS DADOS ABERTOS](#atividade-iv)
 - [ATIVIDADE V- PROJETO- SORVETE, CERVEJA E PREÇO DE CASAS](#atividade-v)
-- [QUESTÕES E RESPOSTAS](#questões-e-respostas)
+- [PERGUNTAS DA ATIVIDADE V](#perguntas-da-atividade-v)
 - [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
 # ATIVIDADE I 
@@ -123,6 +123,8 @@ Em nossa quarta atividade realizamos um busca por dados abertos, encontramos os 
   <img src="https://github.com/user-attachments/assets/09f630e0-a139-4979-ac2c-4ed9d20825c2">
 
 ![image](https://github.com/user-attachments/assets/52e4537d-a08c-4900-aa26-c228820933e2)
+
+# PERGUNTAS DA ATIVIDADE VI
 
 
 # LINKS dos arquivos
