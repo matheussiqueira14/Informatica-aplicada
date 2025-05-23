@@ -5,12 +5,11 @@
 <H1><p align="center"> ATIVIDADES DE INFORMÁTICA APLICADA</H1> 
 
 # 🎯ÍNDICE 
-- [ATIVIDADE I](#atividade-i)
-- [ATIVIDADE II](#atividade-ii)
-- [ATIVIDADE III](#atividade-iii)
-- [ATIVIDADE IV](#atividade-iv)
-- [ATIVIDADE V](#atividade-v)
-- [ATIVIDADE VI](#atividade-vi)
+- [ATIVIDADE I- APRESENTAÇÃO ](#atividade-i)
+- [ATIVIDADE II- CONTAS PESSOAIS](#atividade-ii)
+- [ATIVIDADE III- NACIONALIDADES DOS ALUNOS](#atividade-iii)
+- [ATIVIDADE IV- ESCOLHA DOS DADOS ABERTOS](#atividade-iv)
+- [ATIVIDADE V- PROJETO- SORVETE, CERVEJA E PREÇO DE CASAS](#atividade-v)
 - [QUESTÕES E RESPOSTAS](#questões-e-respostas)
 - [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
@@ -45,7 +44,6 @@ Depois realizamos uma planilha no _excel_
   <img src="https://github.com/user-attachments/assets/c7e2b1ae-f3a2-4369-aeaf-3d9e3e427379" alt="Imagem exemplo">
 </p>
 
-# ATIVIDADE IV 
 E realizamos no _POWERBI_ ...
 ***as respostas foram alocadas no _DASHBOARD_ (POWERBI em anexo)***
 
@@ -54,8 +52,8 @@ E realizamos no _POWERBI_ ...
 ![image](https://github.com/user-attachments/assets/709c8cfc-019a-4185-9fbf-78e548345a27)
 
 
-# ATIVIDADE V 
-Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
+# ATIVIDADE IV 
+Em nossa quarta atividade realizamos um busca por dados abertos, encontramos os dados situação dos portos brasileiros em 2022 monitorado pelo orgão federal ANTAQ, editamos a planilha em excel e _powerbi_ 
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" /> 📌 no _powerBI_
 
@@ -88,7 +86,7 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
   <img src="https://github.com/user-attachments/assets/00a11014-209b-448d-9989-039eb4d321d1" alt="Imagem exemplo">
 </p>
 
-# ATIVIDADE VI
+# ATIVIDADE V
 
 ## 📌 Projeto 1: Venda de Sorvete 🍨
 
@@ -131,12 +129,12 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 - [ATIVIDADE I - APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
 - [ATIVIDADE II - CONTAS PESSOAIS](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/contas.xlsx)
 - [ATIVIDADE III - NACIONALIDADES DOS ALUNOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20aluno%20em%20EXCEL.xlsx)
-- [ATIVIDADE IV - NACIONALIDADES DOS ALUNO EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20alunos%20em%20PBI.pbix)
-- [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/SituacaoPortosPublicacao%20EXCEL%20.xlsx)
-- [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/Situa%C3%A7%C3%A3o%20dos%20Portos%20%20PowerBI%20C%20.pbix)
-- [ATIVIDADE V - SITUAÇÃO DOS PORTOS EM POWERBI NAVEGADOR](https://app.powerbi.com/view?r=eyJrIjoiNWJhNGRlODQtMzhhNS00NjQ2LWFlMzUtMWQwM2YxYmQ2ODQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
-- [ATIVIDADE VI - PROJETO 3 VENDA DE CASAS EM GOOGLE COLAB](https://colab.research.google.com/drive/1opvKRzi17Nwfm4NgIjcADcCmvq-Yy8b2?usp=sharing)
-- [ATIVIDADE VI - PROJETO 3 VENDA DE CASAS EM EXCEL]()
+- [ATIVIDADE III - NACIONALIDADES DOS ALUNO EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/nacionalidades%20dos%20alunos%20em%20PBI.pbix)
+- [ATIVIDADE IV - SITUAÇÃO DOS PORTOS EM EXCEL](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/SituacaoPortosPublicacao%20EXCEL%20.xlsx)
+- [ATIVIDADE IV - SITUAÇÃO DOS PORTOS EM POWERBI](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/Situa%C3%A7%C3%A3o%20dos%20Portos%20%20PowerBI%20C%20.pbix)
+- [ATIVIDADE IV - SITUAÇÃO DOS PORTOS EM POWERBI NAVEGADOR](https://app.powerbi.com/view?r=eyJrIjoiNWJhNGRlODQtMzhhNS00NjQ2LWFlMzUtMWQwM2YxYmQ2ODQ1IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
+- [ATIVIDADE V - PROJETO 3 VENDA DE CASAS EM GOOGLE COLAB](https://colab.research.google.com/drive/1opvKRzi17Nwfm4NgIjcADcCmvq-Yy8b2?usp=sharing)
+- [ATIVIDADE V - PROJETO 3 VENDA DE CASAS EM EXCEL](https://docs.google.com/spreadsheets/d/1SAwDMxVpIlH_WnDBrOwxmqvm_OLkfiku/edit?usp=sharing&ouid=100235569140098096576&rtpof=true&sd=true)
 -------------------------------------------------------------------------------
 
 
