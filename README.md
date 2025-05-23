@@ -110,6 +110,8 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/65fd83d1-67a9-46b1-aee1-399d81cec36a">
 
+  [link do colab](https://colab.research.google.com/drive/1opvKRzi17Nwfm4NgIjcADcCmvq-Yy8b2?usp=sharing)
+
 
 ## 📌 Projeto 3: Venda de casas 🏠
 
