@@ -107,11 +107,11 @@ Em nossa quarta atividade realizamos um busca por dados abertos, encontramos os 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/65fd83d1-67a9-46b1-aee1-399d81cec36a">
 
-:arrow_forward: QUESTÕES 
-:one: Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
-2️⃣ Qual modelo você usaria? Por quê?
-3️⃣ Compare os resultados obtidos com aqueles apresentados em:
-https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.
+### :arrow_forward: QUESTÕES 
+:one: Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem? </p>
+2️⃣ Qual modelo você usaria? Por quê?</p>
+3️⃣ Compare os resultados obtidos com aqueles apresentados em: [link](
+https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3). Há diferenças entre os modelos? Explique.
 
  
 
@@ -128,6 +128,10 @@ https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-pyt
   <img src="https://github.com/user-attachments/assets/09f630e0-a139-4979-ac2c-4ed9d20825c2">
 
 ![image](https://github.com/user-attachments/assets/52e4537d-a08c-4900-aa26-c228820933e2)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0032d07-a501-49dd-9809-7d916ffca030">
+
 
 
 
