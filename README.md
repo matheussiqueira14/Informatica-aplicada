@@ -88,23 +88,30 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
   <img src="https://github.com/user-attachments/assets/00a11014-209b-448d-9989-039eb4d321d1" alt="Imagem exemplo">
 </p>
 
-## ATIVIDADE VI
+# ATIVIDADE VI
 
-📌 Projeto 1: Venda de Sorvete 🍨
+## 📌 Projeto 1: Venda de Sorvete 🍨
 
-![image](https://github.com/user-attachments/assets/f912c39f-4b18-4511-bfab-bf72a7051fd4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6aa699b-fa40-4b81-a0bd-e99dbcbc1fa7">
 
-![image](https://github.com/user-attachments/assets/d6aa699b-fa40-4b81-a0bd-e99dbcbc1fa7)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/f912c39f-4b18-4511-bfab-bf72a7051fd4">
+
+## 📌 Projeto 2: Consumo de cerveja 🍺
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e138954-4cd1-4771-b2f7-01a6ddd3ac4b">
+
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/97004f9e-70a2-4302-bf7c-b189ebcc4302">
 
 
-📌 Projeto 2: Consumo de cerveja 🍺
-
-![image](https://github.com/user-attachments/assets/65fd83d1-67a9-46b1-aee1-399d81cec36a)
-
-![image](https://github.com/user-attachments/assets/2e138954-4cd1-4771-b2f7-01a6ddd3ac4b)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/65fd83d1-67a9-46b1-aee1-399d81cec36a">
 
 
-📌 Projeto 3: Venda de casas 🏠
+## 📌 Projeto 3: Venda de casas 🏠
 
 ![image](https://github.com/user-attachments/assets/512f0bb4-1c44-4bd0-ad05-c640132f87e1)
 
