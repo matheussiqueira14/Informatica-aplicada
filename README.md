@@ -87,6 +87,16 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
   <img src="https://github.com/user-attachments/assets/00a11014-209b-448d-9989-039eb4d321d1" alt="Imagem exemplo">
 </p>
 
+## ATIVIDADE VI
+
+![image](https://github.com/user-attachments/assets/512f0bb4-1c44-4bd0-ad05-c640132f87e1)
+
+![image](https://github.com/user-attachments/assets/a14d5fdd-a2a4-451d-a26b-0a21213815c5)
+
+![image](https://github.com/user-attachments/assets/09f630e0-a139-4979-ac2c-4ed9d20825c2)
+
+![image](https://github.com/user-attachments/assets/52e4537d-a08c-4900-aa26-c228820933e2)
+
 
 ## LINKS dos arquivos
 - [ATIVIDADE I - APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
