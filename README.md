@@ -10,6 +10,7 @@
 - [ATIVIDADE III](#atividade-iii)
 - [ATIVIDADE IV](#atividade-iv)
 - [ATIVIDADE V](#atividade-v)
+- [ATIVIDADE VI](#atividade-vi)
 - [QUESTÕES E RESPOSTAS](#questões-e-respostas)
 - [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
@@ -89,15 +90,11 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 
 ## ATIVIDADE VI
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4511ddd6-41c6-4289-9e31-b0cb8d60edd9" width="210">
+📌 Projeto 1: Venda de Sorvete 🍨
 
+📌 Projeto 2: Consumo de cerveja 🍺
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b974f4b1-5b3c-4da2-bdcb-12478dc28b43" width="210">
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/160f4c8e-587c-44b0-8898-7ce32d20e672" width="210">
+📌 Projeto 3: Venda de casas 🏠
 
 ![image](https://github.com/user-attachments/assets/512f0bb4-1c44-4bd0-ad05-c640132f87e1)
 
