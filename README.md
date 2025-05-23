@@ -89,6 +89,16 @@ Em nossa quinta atividade realizamos um busca por dados abertos, encontramos os 
 
 ## ATIVIDADE VI
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/160f4c8e-587c-44b0-8898-7ce32d20e672" width="150" style="border-radius: 10px;" />
+  <img src="https://github.com/user-attachments/assets/160f4c8e-587c-44b0-8898-7ce32d20e672" width="150" style="border-radius: 10px;" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/160f4c8e-587c-44b0-8898-7ce32d20e672" width="250">
+
 ![image](https://github.com/user-attachments/assets/512f0bb4-1c44-4bd0-ad05-c640132f87e1)
 
 ![image](https://github.com/user-attachments/assets/a14d5fdd-a2a4-451d-a26b-0a21213815c5)
