@@ -109,9 +109,14 @@ Em nossa quarta atividade realizamos um busca por dados abertos, encontramos os 
 
 ### :arrow_forward: QUESTÕES 
 :one: Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem? </p>
+Não são iguais, Python é mais adequado para automação, extensão do modelo e análise em larga escala.
+Excel é ideal para análises rápidas e compreensão inicial do problema.</p>
 2️⃣ Qual modelo você usaria? Por quê?</p>
+Utilizaria o python pois permite avaliar múltiplas metricas de performace </p>
 3️⃣ Compare os resultados obtidos com aqueles apresentados em: [link](
 https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3). Há diferenças entre os modelos? Explique.
+
+modelo aplica a técnica a um conjunto específico de dados relacionados ao consumo de cerveja, o artigo de Ivanildo Batista fornece uma visão geral teórica e prática sobre a construção e avaliação de modelos de regressão linear múltipla em Python
 
  
 
