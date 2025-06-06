@@ -10,6 +10,7 @@
 - [ATIVIDADE III- NACIONALIDADES DOS ALUNOS](#atividade-iii)
 - [ATIVIDADE IV- ESCOLHA DOS DADOS ABERTOS](#atividade-iv)
 - [ATIVIDADE V- PROJETO- SORVETE, CERVEJA E PREÇO DE CASAS](#atividade-v)
+- [ATIVIDADE VI](#atividade-iv)
 - [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
 # ATIVIDADE I 
@@ -138,7 +139,15 @@ modelo aplica a técnica a um conjunto específico de dados relacionados ao cons
   <img src="https://github.com/user-attachments/assets/f0032d07-a501-49dd-9809-7d916ffca030">
 
 
+# ATIVIDADE VI 
 
+![image](https://github.com/user-attachments/assets/1dac1820-6a83-49fc-8738-d01f94b1a8f3)
+![image](https://github.com/user-attachments/assets/c9fd5f8a-9e9a-4e9a-b3ba-dd8345d61866)
+
+
+![image](https://github.com/user-attachments/assets/7bc60dbe-4962-4b7c-9bd7-8d8657f194e6)
+
+![image](https://github.com/user-attachments/assets/3b135b41-9441-48bf-b1da-e314212ba70a)
 
 
 # LINKS dos arquivos
