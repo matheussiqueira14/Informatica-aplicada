@@ -153,7 +153,7 @@ modelo aplica a técnica a um conjunto específico de dados relacionados ao cons
 
 [Link do aplicativo](https://apps.powerapps.com/play/e/419f15ca-2644-e087-a73c-a00e8e7836ee/a/69c97acf-28b8-4b92-8f9f-4d7facfcda0f?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=aa16c03d-112e-4abc-af24-d189bfee1f79&sourcetime=1749775715926)
 
-##
+## PowerApps
 
 
 https://github.com/user-attachments/assets/f1462c06-0c03-47e7-a647-30e7d07be9ba
