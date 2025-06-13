@@ -156,7 +156,7 @@ modelo aplica a técnica a um conjunto específico de dados relacionados ao cons
 
 
 
-Uploading Gravação de Tela 2025-06-12 221410.mp4…
+https://github.com/user-attachments/assets/f1462c06-0c03-47e7-a647-30e7d07be9ba
 
 
 
