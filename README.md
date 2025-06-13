@@ -10,7 +10,8 @@
 - [ATIVIDADE III- NACIONALIDADES DOS ALUNOS](#atividade-iii)
 - [ATIVIDADE IV- ESCOLHA DOS DADOS ABERTOS](#atividade-iv)
 - [ATIVIDADE V- PROJETO- SORVETE, CERVEJA E PREÇO DE CASAS](#atividade-v)
-- [ATIVIDADE VI](#atividade-iv)
+- [ATIVIDADE VI](#atividade-vi)
+- [ATIVIDADE VII](#atividade-vii)
 - [LINKS DOS ARQUIVOS](#links-dos-arquivos)
 
 # ATIVIDADE I 
@@ -152,7 +153,7 @@ modelo aplica a técnica a um conjunto específico de dados relacionados ao cons
 # ATIVIDADE VII 
 
 
-## <img src="https://github.com/user-attachments/assets/f3ce697a-55a5-4c2c-8479-2c810d560ac7" width="100"/> PowerAutomate PowerApps
+## <img src="https://github.com/user-attachments/assets/f3ce697a-55a5-4c2c-8479-2c810d560ac7" width="80"/> PowerAutomate PowerApps
 
 
 [Link do aplicativo](https://apps.powerapps.com/play/e/419f15ca-2644-e087-a73c-a00e8e7836ee/a/69c97acf-28b8-4b92-8f9f-4d7facfcda0f?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=aa16c03d-112e-4abc-af24-d189bfee1f79&sourcetime=1749775715926)
@@ -160,7 +161,7 @@ modelo aplica a técnica a um conjunto específico de dados relacionados ao cons
 
 https://github.com/user-attachments/assets/f1462c06-0c03-47e7-a647-30e7d07be9ba
 
-## <img src="https://github.com/user-attachments/assets/84f725cb-5c86-4f84-92e7-153ab6c3a4ce" width="100"/> PowerAutomate
+## <img src="https://github.com/user-attachments/assets/84f725cb-5c86-4f84-92e7-153ab6c3a4ce" width="80"/> PowerAutomate
 
 ![image](https://github.com/user-attachments/assets/3d06360f-52f7-4257-b211-4cf0efdb325a)
 
