@@ -153,6 +153,9 @@ modelo aplica a técnica a um conjunto específico de dados relacionados ao cons
 
 [Link do aplicativo](https://apps.powerapps.com/play/e/419f15ca-2644-e087-a73c-a00e8e7836ee/a/69c97acf-28b8-4b92-8f9f-4d7facfcda0f?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=aa16c03d-112e-4abc-af24-d189bfee1f79&sourcetime=1749775715926)
 
+![Captura de tela 2025-06-12 221250](https://github.com/user-attachments/assets/94de2295-c059-459e-8239-a1d970e40f2e)
+
+
 # LINKS dos arquivos
 - [ATIVIDADE I - APRESENTAÇÃO](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/atividade%20de%20apresenta%C3%A7%C3%A3o%20powerpoint.pptx)
 - [ATIVIDADE II - CONTAS PESSOAIS](https://github.com/matheussiqueira14/Informatica-aplicada/blob/main/contas.xlsx)
